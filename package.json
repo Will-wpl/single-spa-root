@@ -1,5 +1,5 @@
 {
-  "name": "single-spa-login-example-with-npm-packages",
+  "name": "single-spa-root",
   "version": "0.2.5",
   "description": "Single-spa application example which imports registered applications from NPM packages and manages authentication features as login.",
   "main": "root-application.js",
@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jualoppaz/single-spa-login-example-with-npm-packages.git"
+    "url": "git+https://github.com/Will-wpl/single-spa-root.git"
   },
-  "author": "Juan Manuel López Pazos",
+  "author": "PeiLong Wang",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jualoppaz/single-spa-login-example-with-npm-packages/issues"
+    "url": "https://github.com/Will-wpl/single-spa-root/issues"
   },
-  "homepage": "https://github.com/jualoppaz/single-spa-login-example-with-npm-packages#readme",
+  "homepage": "https://github.com/Will-wpl/single-spa-root#readme",
   "devDependencies": {
     "@babel/core": "7.8.3",
     "babel-eslint": "10.0.3",
