@@ -1,6 +1,6 @@
 <img src="https://single-spa.js.org/img/logo-white-bgblue.svg" width="50" height="50">
 
-[![npm version](https://img.shields.io/npm/v/single-spa-home-app.svg?style=flat-square)](https://www.npmjs.org/package/single-spa-home-app-new)
+[![npm version](https://img.shields.io/npm/v/single-spa-root.svg?style=flat-square)](https://www.npmjs.org/package/single-spa-root)
 
 # single-spa-root
 

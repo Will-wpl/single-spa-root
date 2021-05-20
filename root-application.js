@@ -26,7 +26,7 @@ function showExcept(routes) {
 
 singleSpa.registerApplication(
   'login',
-  () => import('single-spa-auth-app'),
+  () => import('single-spa-login'),
   showWhenAnyOf(['/login']),
 );
 
@@ -50,7 +50,7 @@ singleSpa.registerApplication(
 
 singleSpa.registerApplication(
   'vue',
-  () => import('single-spa-vue-app'),
+  () => import('single-spa-vue-new'),
   showWhenPrefix(['/vue']),
 );
 
