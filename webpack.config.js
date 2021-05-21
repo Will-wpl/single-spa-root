@@ -47,7 +47,7 @@ module.exports = {
       {
         from: path.resolve(
           __dirname,
-          'node_modules/single-spa-layout-app/dist/img',
+          'node_modules/single-spa-layout-new/dist/img',
         ),
         to: path.resolve(__dirname, 'dist/img'),
       },

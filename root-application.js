@@ -32,7 +32,7 @@ singleSpa.registerApplication(
 
 singleSpa.registerApplication(
   'layout',
-  () => import('single-spa-layout-app'),
+  () => import('single-spa-layout-new'),
   showExcept(['/login']),
 );
 
@@ -44,7 +44,7 @@ singleSpa.registerApplication(
 
 singleSpa.registerApplication(
   'angular',
-  () => import('single-spa-angular-app'),
+  () => import('single-spa-angular-new'),
   showWhenPrefix(['/angular']),
 );
 
@@ -56,7 +56,7 @@ singleSpa.registerApplication(
 
 singleSpa.registerApplication(
   'react',
-  () => import('single-spa-react-app'),
+  () => import('single-spa-react-new'),
   showWhenPrefix(['/react']),
 );
 
