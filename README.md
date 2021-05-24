@@ -10,7 +10,7 @@ The login validation is harcoded in code and the credentials are:
 
 | User          | Password      |     
 | ------------- |:-------------:|
-| admin         | 12345         |
+| admin         | 123456         |
 
 ## 💻 Run in localhost
 
